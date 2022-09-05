@@ -24,6 +24,7 @@ There are many facts to see from this chart:
   2. The three have an increase of fares in the second part of february, reaching to a peak, or the highest fare for the analyzed period (except for the rural which has a higher rate ath the beggining of april). If needed, Pyber could analyze which festivities are celebrated around those days, or assess important holidays or festivals to each city type or region. 
   
   
-  
-
+ ## Summary
+ 
+ It is evident from both charts previouslt presented that the the urban tyoe of city is the one who provides the most fares. This is due to the number of fares and drivers, despite the low average of fares and rides per ride and driver. If pyber were to make a decision, the urban cities are the ones who generate the most total fares. If the decision is in the growing opportunities, suburban and urban could show a potential to increase the number of drivers or somehow increase the number of rides. 
 
