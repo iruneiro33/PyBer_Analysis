@@ -6,7 +6,7 @@ The purpose of this analaysis is to assess data about the fares for each city ty
 
 # Results 
 
-To begin wit hte analysis, the table below shows the summary of the total and average rides and fares by type of city. Also, as we see the total number of drivers per type of city. In this case, the city with the most drivers, the most amount of rides and the highest fares is the urban type of city. Next, we find the suburban and finally the rural city type is has the fewest total rides, less drivers and smallest total fares. However, on the average fare per ride the rural city is higher, which is translated into more money spent per ride. It would be interesting to see why is the reason for this (longer distances, higher prices, more time spent per ride?), or if it is only because of the lower amount of total drivers. 
+To begin with the analysis, the table below shows the summary of the total and average rides and fares by type of city. Also, as we see the total number of drivers per type of city. In this case, the city with the most drivers, the most amount of rides and the highest fares is the urban type of city. Next, we find the suburban and finally the rural city type is has the fewest total rides, less drivers and smallest total fares. However, on the average fare per ride the rural city is higher, which is translated into more money spent per ride. It would be interesting to see why is the reason for this (longer distances, higher initial prices, more time spent per ride?), or if it is only because of the lower amount of total drivers. 
 
 ![Total_Summary_Pyber](https://user-images.githubusercontent.com/7553779/188354829-ea197cac-a2af-49a3-af3b-fa5aabfccd49.png)
 
@@ -14,9 +14,16 @@ On reverse order to the total rides, drivers and fares, the rural and then the s
 
 However, at the end od the day revenue is one of the important indicators to the companies, including Pyber. For them, this is mainly driven by the total amount of fares. In the next chart we can appreciate the be visual representation of the total fares by city type. This leads us to another analysis.
 
-The table below shows the fares by city type from january to april 2019. Consistent with the previous chart, the type of city with the highest amount per fare is the urban, flowwed by the subirban and finally the rural type. There are many facts to see from this chart:
-  
-  1. The behavior of the three lines, in general, is similar. For the analyzed period, all start and end at a similar fare rateThe three types of cities have an increase of fares in the second part of february 
+The table below shows the fares by city type from january to april 2019. Consistent with the previous chart, the type of city with the highest amount per fare is the urban, flowwed by the subirban and finally the rural type. 
 
 <img width="1030" alt="TotalFare_by_CityType" src="https://user-images.githubusercontent.com/7553779/188353540-dfb9a58e-a135-41ff-b6f6-f2677f78005c.png">
+
+There are many facts to see from this chart:
+  
+  1. For the analyzed period, the rural and the urban start and end at a similar fare. Nonetheless, the city starts in a positive trens but ends in a negative trend. Opposite, the rural starts in a slight decrease of the fare and ends similarly. However, the most variation in fares is seen in the suburban cities, starting slightly over $500 and reahing by mid-April up to $1200 aproximately. 
+  2. The three have an increase of fares in the second part of february, reaching to a peak, or the highest fare for the analyzed period (except for the rural which has a higher rate ath the beggining of april). If needed, Pyber could analyze which festivities are celebrated around those days, or assess important holidays or festivals to each city type or region. 
+  
+  
+  
+
 
